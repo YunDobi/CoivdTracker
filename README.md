@@ -1,5 +1,5 @@
 ## Covid Tracker APP ##
-  First project with using the TailWindCSS and Vue.js with CovidAPI.
+  First project with using the TailWindCSS and Vue.js with CovidAPI. It was simple project but while I using the TailWind and Vue, I feel more comfortable on writing a code. It was great exercise.
 
 ## ScreenShot ##
 <img width="840" alt="Screen Shot 2022-08-08 at 5 06 01 PM" src="https://user-images.githubusercontent.com/88572626/183535465-5d43d0ba-5787-4392-9ea4-c7246f2bdfd7.png">
